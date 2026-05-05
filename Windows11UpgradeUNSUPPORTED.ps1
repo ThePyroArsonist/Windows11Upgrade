@@ -1,5 +1,5 @@
 ﻿# Variables
-$isoUrl = "https://repo.mooit.com/files/Win11_24H2_English_x64.iso"  # Update to latest ISO URL as needed
+$isoUrl = "CHANGE_ME/Win11_24H2_English_x64.iso"  # Update to latest ISO URL as needed
 $isoLocalPath = "C:\Temp\Win11.iso"
 $localSetupPath = "C:\Temp\Win11Setup"
 $localLogPath = "C:\Windows\Temp"
